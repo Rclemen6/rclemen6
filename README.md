@@ -76,12 +76,14 @@ th {
       <li>Loss of Genetic Diversity</li>
       <li>Crumbling Food Web</li>
       <li>Extinction</li>
-      <li><a href=https://www.un.org/en/>More Information from the United Nations</a></li>
     </ol>
 
     <img width=690 height=400 src="https://cdn.pixabay.com/photo/2015/10/25/22/05/united-1006438_960_720.png" alt= " United Nations"/>
    
-
+    <p>
+      <a href=”https://www.un.org/en/”>
+        </p>
+    
     <h6>Thank You!!</h6>
     </body>
 
