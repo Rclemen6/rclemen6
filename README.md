@@ -5,11 +5,11 @@ Ryan's Webpage
 <head>
 <style>
 body {
-background-color: aqua;
+background-color: yellow;
 }
     h3 {
   font-size: 50px;
-  color: grey;
+  color: blue;
 }
   h2 {
     font-size: 60;
@@ -76,10 +76,10 @@ th {
    
    <body>
       <p>Click any of the following links</p>
-      <a href = "https://www.un.org/en/" target = "_blank">Opens in New</a> |
-      <a href = "/html/index.htm" target = "_self">Opens in Self</a> |
-      <a href = "/html/index.htm" target = "_parent">Opens in Parent</a> |
-      <a href = "/html/index.htm" target = "_top">Opens in Body</a>
+      <a href = "https://www.un.org/en/" target = "_blank">United Nations</a> |
+      <a href = "https://www.cbd.int/sp/targets/" target = "_blank">Aichi Targets</a> |
+      <a href = "https://www.worldwildlife.org/about" target = "_blank">World Wildlife Foundation</a> |
+    
    </body>
     
     
