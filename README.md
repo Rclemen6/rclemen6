@@ -28,8 +28,6 @@ th {
 <body>
   <head>
   
-  <head>
-    <title>Ryan's Mini-Project page</title>
     </head>
   <body>
     <h1>Ryan's Page</h1>
