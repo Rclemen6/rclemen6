@@ -6,13 +6,13 @@ body {
 background-color: yellow;
 }
     h3 {
-  font-size: 50px;
+  font-size: 60px;
   color: blue;
 }
   h2 {
-    font-size: 60;
+    font-size: 70;
     text-align: center;
-  font-family: "Times New Roman", "Courier New", monospace;
+  font-family: "Calibri", "Algerian", monospace;
 }
   
   }
@@ -25,7 +25,7 @@ th {
 </head>
 <body>
   <head>
-  
+  <img width=300 height=340 src="https://www.wildbirdscoop.com/wp-content/uploads/2021/01/Ferruginous-Hawk.jpg" alt= "Ferrunginous Hawk"/>
     </head>
   <body>
     <h1>Ryan's Page</h1>
@@ -43,7 +43,6 @@ th {
       <li>Global Environmental Problems</li>
     </ol>
   
-    <img width=300 height=340 src="https://www.wildbirdscoop.com/wp-content/uploads/2021/01/Ferruginous-Hawk.jpg" alt= "Ferrunginous Hawk"/>
     <h4>Causes of Species Biodiversity Loss</h4>
     <ul>
       <li>Overexploitation</li>
