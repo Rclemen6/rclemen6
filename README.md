@@ -1,7 +1,6 @@
 # rclemen6.github.io
 Ryan's Webpage
 
-<!doctype html>
   <html>
 <head>
 <style>
@@ -75,7 +74,13 @@ th {
 
     <img width=690 height=400 src="https://cdn.pixabay.com/photo/2015/10/25/22/05/united-1006438_960_720.png" alt= " United Nations"/>
    
-    <a href=https://www.un.org/en/>The United Nations</a>
+   <body>
+      <p>Click any of the following links</p>
+      <a href = "https://www.un.org/en/" target = "_blank">Opens in New</a> |
+      <a href = "/html/index.htm" target = "_self">Opens in Self</a> |
+      <a href = "/html/index.htm" target = "_parent">Opens in Parent</a> |
+      <a href = "/html/index.htm" target = "_top">Opens in Body</a>
+   </body>
     
     
     
