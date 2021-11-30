@@ -13,7 +13,7 @@ background-color: yellow;
   h2 {
     font-size: 60;
     text-align: center;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Times New Roman", "Courier New", monospace;
 }
   
   }
