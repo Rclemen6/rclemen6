@@ -1,11 +1,6 @@
 # rclemen6.github.io
 Ryan's Webpage
-</head>
-<body>
-  Ryan's page
-  </body>
-  </html>
- https://rclemen6.github.io/Lab_1.html
+
 <!doctype html>
   <html>
 <head>
@@ -80,9 +75,9 @@ th {
 
     <img width=690 height=400 src="https://cdn.pixabay.com/photo/2015/10/25/22/05/united-1006438_960_720.png" alt= " United Nations"/>
    
-    <ol>
-      <li> <a href=”https://www.un.org/en/”></li>
-    </ol>
+    <a href=https://www.un.org/en/>The United Nations</a>
+    
+    
     
     <h6>Thank You!!</h6>
     </body>
