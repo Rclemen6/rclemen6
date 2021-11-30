@@ -78,7 +78,7 @@ th {
    </head>
 	
    <body>
-      <table border = "1" cellpadding = "5" cellspacing = "2">
+      <table border = "1" cellpadding = "2" cellspacing = "2">
          <tr>
             <th>Species</th>
             <th>Population</th>
