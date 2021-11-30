@@ -1,5 +1,4 @@
 # rclemen6.github.io
-Ryan's Webpage
 
   <html>
 <head>
