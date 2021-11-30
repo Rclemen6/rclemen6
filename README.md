@@ -71,6 +71,39 @@ th {
 
     <img width=690 height=400 src="https://cdn.pixabay.com/photo/2015/10/25/22/05/united-1006438_960_720.png" alt= " United Nations"/>
    
+    <html>
+
+   <head>
+      <title>HTML Table Cellpadding</title>
+   </head>
+	
+   <body>
+      <table border = "1" cellpadding = "5" cellspacing = "5">
+         <tr>
+            <th>Species</th>
+            <th>Population</th>
+         </tr>
+         <tr>
+            <td>Swainson's Hawk</td>
+            <td>580,000</td>
+         </tr>
+         <tr>
+            <td>Ferrunginous Hawk</td>
+            <td>80,000</td>
+         </tr>
+         <tr>
+            <td>Red Tail Hawk</td>
+            <td>2,000,000</td>
+         </tr>
+         <tr>
+            <td>Cooper's Hawk</td>
+            <td>500,000</td>
+         </tr>
+      </table>
+   </body>
+	
+</html>
+    
    <body>
       <p>Click any of the following links</p>
       <a href = "https://www.un.org/en/" target = "_blank">United Nations</a> |
