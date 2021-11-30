@@ -105,7 +105,7 @@ th {
 </html>
     
    <body>
-      <p>Click any of the following links</p>
+      <p>Click any of the following links for more information.</p>
       <a href = "https://www.un.org/en/" target = "_blank">United Nations</a> |
       <a href = "https://www.cbd.int/sp/targets/" target = "_blank">Aichi Targets</a> |
       <a href = "https://www.worldwildlife.org/about" target = "_blank">World Wildlife Foundation</a> |
